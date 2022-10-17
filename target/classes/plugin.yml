@@ -1,0 +1,8 @@
+name: CommandHider
+version: '1.0-SNAPSHOT'
+main: de.itzlouis.commandhider.CommandHider
+authors: [ ItzLouis ]
+description: CommandHider
+website: https://itzlouis.de/commandhider
+commands:
+  commandhider:

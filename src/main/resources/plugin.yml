@@ -1,0 +1,8 @@
+name: CommandHider
+version: '${project.version}'
+main: de.itzlouis.commandhider.CommandHider
+authors: [ ItzLouis ]
+description: CommandHider
+website: https://itzlouis.de/commandhider
+commands:
+  commandhider:
